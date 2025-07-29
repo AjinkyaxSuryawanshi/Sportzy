@@ -1,15 +1,13 @@
 # 🏀 Sportzy
 
-**Sportzy** is a modern and dynamic sports event management platform with a clean and responsive UI. Designed to handle everything from sports registration to event updates, Sportzy makes organizing and participating in sports events seamless and enjoyable.
+**Sportzy** is a modern and dynamic sports event management platform with a clean and responsive UI. Designed to handle everything from sports registration to event updates, Sportzy makes organizing and participating in sports events seamless and enjoyable and a sports booking platform UI built with **React 19** and **Tailwind CSS**. Designed for sports enthusiasts, booking venues, or managing tournaments — this UI is clean, fast, and customizable.
 
-## 🚀 Features
+## ⚙️ Tech Stack
 
-- 🔥 Brand-new fully responsive UI
-- 📝 Player and team registration system
-- 🗓️ Event and match scheduling
-- 📊 Scoreboard and live updates
-- 🧾 Admin panel for full event control
-- 📱 Mobile-friendly with smooth animations
+- 💻 **React 19**
+- 🎨 **Tailwind CSS**
+- 🔧 **Vite** (or React Scripts)
+- 🔁 **Node.js & npm**
 
 ## 📁 Project Structure
 
@@ -24,60 +22,64 @@
   ├── package.json 
   └── README.md </code></pre>
 
-bash
+## 🚀 Features
 
-Copy
+- 🔥 Brand-new fully responsive UI
+- 📝 Player and team registration system
+- 🗓️ Event and match scheduling
+- 📊 Scoreboard and live updates
+- 🧾 Admin panel for full event control
+- 📱 Mobile-friendly with smooth animations
 
-Edit
-
-## 🧑‍💻 Running Locally
 
 ### ⚙️ Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16 or higher)
 - npm (comes with Node.js)
 
-### 📦 Steps
 
-1. **Clone the repository**
+### 📦 Installation & Running
 
 ```bash
+# Clone the repository
 git clone https://github.com/AjinkyaxSuryawanshi/Sportzy.git
-Navigate to the project directory
 
-bash
-Copy
-Edit
+# Navigate to the project directory
 cd Sportzy
-Install all dependencies
 
-bash
-Copy
-Edit
+# Install dependencies
 npm install
-If you see dependency tree errors, use:
+# (If you get dependency errors, try: npm install --legacy-peer-deps)
 
-bash
-Copy
-Edit
-npm install --legacy-peer-deps
-Start the development server
-
-bash
-Copy
-Edit
+# Run the development server
 npm run dev
-Visit the app
 
 Open your browser and go to:
 http://localhost:5173
 
-
+```
 🤝 Contributing
-Feel free to fork this repository, make enhancements, and submit a pull request. You can also be added as a collaborator via GitHub’s interface.
+
+📥 Pull requests and contributions are welcome!
+```
+Fork the repo
+
+Create a new branch
+
+bash
+Copy
+Edit
+git checkout -b feature-name
+Commit your changes
+
+Push and open a Pull Request
+
+Or if you're working together, request collaborator access via GitHub.
+```
 
 📄 License
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute it with attribution.
+🔓 MIT License
 
+This project is open-source under the MIT License.
+Feel free to use, modify, or share it — just give proper credit.
 
