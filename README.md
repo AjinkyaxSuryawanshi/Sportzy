@@ -1,6 +1,11 @@
 # 🏀 Sportzy
 
-**Sportzy** is a modern and dynamic sports event management platform with a clean and responsive UI. Designed to handle everything from sports registration to event updates, Sportzy makes organizing and participating in sports events seamless and enjoyable and a sports booking platform UI built with **React 19** and **Tailwind CSS**. Designed for sports enthusiasts, booking venues, or managing tournaments — this UI is clean, fast, and customizable.
+<h1 align="center">
+
+<div align="center">
+   <br>Sportzy is a modern and dynamic sports event management platform with a clean and responsive UI. Designed to handle everything from sports registration to event updates, Sportzy makes organizing and participating in sports events seamless and enjoyable and a sports booking platform UI built with **React 19** and **Tailwind CSS**. Designed for sports enthusiasts, booking venues, or managing tournaments — this UI is clean, fast, and customizable.
+<br>
+</div>
 
 ## ⚙️ Tech Stack
 
